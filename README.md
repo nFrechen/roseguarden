@@ -119,7 +119,7 @@ Use RoseGuarden
 - The initial administrator-password is: pleasechangethepassword
 - please change the password after your first login
 
-Problems durring installation and running RoseGuarden
+Problems during installation and running RoseGuarden
 -----------------------------------------------------
 
 ** _Problem:_ **
